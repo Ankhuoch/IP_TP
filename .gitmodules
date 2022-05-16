@@ -1,0 +1,6 @@
+[submodule "vuejs"]
+	path = vuejs
+	url = https://gitlab.com/g6063/ip-tp14-practical-vuejs-sample
+[submodule "nodejs"]
+	path = nodejs
+	url = https://gitlab.com/g6063/ip-tp14-practical-nodejs-sample.git
